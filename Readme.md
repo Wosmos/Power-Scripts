@@ -31,5 +31,5 @@ To use the scripts in this repository, follow these steps:
 ```bash
 git clone https://github.com/your-username/powershell-scripts.git
 
-
-***Note: It is still in process***
+```
+**Note: It is still in process**
