@@ -4,13 +4,13 @@ $projectTypes = @{
     "2" = "CMS-App";
     "3" = "Chat-App";
     "4" = "E-Store-App";
-    # "5" = "Expense-Tracker-App";
-    # "6" = "Job-Board-App";
-    # "7" = "E-Learning-App";
-    # "8" = "Recipe Sharing-App";
-    # "9" = "Social-App";
-    # "10" = "TMS-App";
-    # "11" = "To-Do-App"
+    "5" = "Expense-Tracker-App";
+    "6" = "Job-Board-App";
+    "7" = "E-Learning-App";
+    "8" = "Recipe Sharing-App";
+    "9" = "Social-App";
+    "10" = "TMS-App";
+    "11" = "To-Do-App"
 }
 
 # Project dependencies
