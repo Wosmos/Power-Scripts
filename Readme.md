@@ -18,9 +18,21 @@ PowerShell is a powerful scripting language developed by Microsoft, designed pri
 
 Here's a brief overview of the scripts available in this repository:
 
-- `script1.ps1`: Description of script 1.
+-  `script1.ps1`: Description of script 1.
+    - **What is it?**: Description of script 1.
+    - **Why is it?**: Explanation of why this script was created.
+    - **What it does?**: Brief overview of what the script accomplishes.
+    - **How to use it?**: Instructions on how to use the script effectively.
 - `script2.ps1`: Description of script 2.
+    - **What is it?**: Description of script 1.
+    - **Why is it?**: Explanation of why this script was created.
+    - **What it does?**: Brief overview of what the script accomplishes.
+    - **How to use it?**: Instructions on how to use the script effectively.
 - `script3.ps1`: Description of script 3.
+    - **What is it?**: Description of script 1.
+    - **Why is it?**: Explanation of why this script was created.
+    - **What it does?**: Brief overview of what the script accomplishes.
+    - **How to use it?**: Instructions on how to use the script effectively.
 
 ## How to Use
 
@@ -32,8 +44,8 @@ To use the scripts in this repository, follow these steps:
 git clone https://github.com/your-username/powershell-scripts.git
 
 ```
-**Note: It is still in process**
-
+<h3>⚠️ Note: Not ready for usage, still in process
+</h3>
 
 
 
